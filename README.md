@@ -3,7 +3,7 @@
 ### Projects
 
 #### [Aranea]()
-> **Go | Redis | Docker | PostgreSQL | AWS **
+> **Go | Redis | Docker | PostgreSQL | AWS**
 * todo: add desc
 
 #### [UBC Course Insights]()
