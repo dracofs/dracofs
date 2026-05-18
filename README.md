@@ -8,7 +8,7 @@
 
 #### [UBC Course Insights]()
 > **Typescript | React | Mocha | Chai | Supertest**
-* todo: ubc course data query-er
+* ubc course data query-er
 ---
 
 ### Programming Languages
