@@ -4,7 +4,7 @@
 
 #### [Aranea]()
 > **Go | Redis | Docker | PostgreSQL | AWS**
-* a concurrent arachnid lil guy(s)
+* a concurrent spiderbot bunch
 
 #### [UBC Course Insights]()
 > **Typescript | React | Mocha | Chai | Supertest**
