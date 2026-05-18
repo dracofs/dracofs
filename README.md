@@ -4,11 +4,11 @@
 
 #### [Aranea]()
 > **Go | Redis | Docker | PostgreSQL | AWS**
-* todo: add desc
+* a concurrent arachnid lil guy(s)
 
 #### [UBC Course Insights]()
 > **Typescript | React | Mocha | Chai | Supertest**
-* todo: add desc
+* todo: ubc course data query-er
 ---
 
 ### Programming Languages
