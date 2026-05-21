@@ -2,11 +2,11 @@
 
 ### Projects
 
-#### [Aranea]()
+#### [Aranea](https://github.com/dracofs/Aranea)
 > **Go | Redis | Docker | PostgreSQL | AWS**
 * a concurrent spiderbot bunch
 
-#### [UBC Course Insights]()
+#### [UBC Course Insights](https://github.com/dracofs/UBC-Course-Insights)
 > **Typescript | React | Mocha | Chai | Supertest**
 * ubc course data query-er
 ---
