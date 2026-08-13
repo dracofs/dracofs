@@ -1,26 +1,31 @@
-## CS + Math Student @ UBC</b>
+## hey there, i'm draco!
+#### i'm a 4th year in cs + math @ [UBC](https://www.ubc.ca/), and i'm currently focused on <br> learning systems design, and how to write large scale code ^-^
 
 ### Projects
 
-#### [Aranea](https://github.com/dracofs/Aranea)
-> **Go | Redis | Docker | PostgreSQL | AWS**
-* a concurrent spiderbot bunch
+#### [Aranea](https://github.com/dracofs/Aranea) - in progress
+> **Go | Redis | Docker | PostgreSQL**
+* a distributed, parallel webcrawler 
+
+#### [Flux Trading Engine](https://github.com/dracofs/Flux-Trading-Engine) - in progress
+> **C++ | Go | gRPC | Typescript | React** 
+* low latency simulative orderbook trading engine
 
 #### [UBC Course Insights](https://github.com/dracofs/UBC-Course-Insights)
 > **Typescript | React | Mocha | Chai | Supertest**
 * ubc course data query-er
 
-#### [StrayCare]()
+#### [StrayCare](https://github.com/dracofs/straycare)
 > **Javacript | React | Oracle | SQL | Database Design** 
 * db system for simulating a volunteer stray care animal community 
 
-#### [Flux Trading Engine]()
-> **C++ | Go | gRPC | Typescript | React** 
-* low latency simulative orderbook trading engine
+#### [local notes]() - coming soon!
+> **Kotlin | SQLite | DynamoDB | Docker | React Native**
+* polymorphic behaviour note storage app
 
-#### [Crystal]()
-> **Java | JUnit | Swing**
-* task and schedule management lightweight java application 
+#### [codeify]() - coming soon!
+> **Go | Typescript | mongoDB | React**
+* leetify but for programmers
 ---
 
 ### Programming Languages
@@ -55,7 +60,6 @@
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ### AI Tools
