@@ -74,3 +74,8 @@
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+--- 
+
+#### i'm not someone who was born into computer science, unlike most people around me, i've been <br> trying hard to catch up to them, and there are many times where i feel like it's pointless and <br> i'll never be as knowledgeable as them, but even so...
+_"my magic is never giving up"_
