@@ -1,5 +1,5 @@
 ## hey there, i'm draco!
-#### i'm a 4th year in cs + math @ [UBC](https://www.ubc.ca/), and i'm currently focused on <br> learning systems design, and how to write large scale code ^-^
+#### i'm a 4th year in cs + math @ [UBC](https://www.ubc.ca/), and i'm currently focused on <br> learning systems design, and how to write large scale code ^w^
 
 ### Projects
 
