@@ -4,7 +4,7 @@
 ### Projects
 
 #### [Aranea](https://github.com/dracofs/Aranea) - in progress
-> **Go | Docker | Redis | Prometheus | Grafana**
+> **Go | Docker | Redis | Prometheus | Grafana | SOON: ECS + DB Sys**
 * a distributed, parallel webcrawler 
 
 #### [Flux Trading Engine](https://github.com/dracofs/Flux-Trading-Engine) - in progress
