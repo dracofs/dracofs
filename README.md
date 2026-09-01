@@ -8,7 +8,7 @@
 * a distributed, parallel webcrawler 
 
 #### [Flux Trading Engine](https://github.com/dracofs/Flux-Trading-Engine) - in progress
-> **C++ | Go | gRPC | Typescript | React** 
+> **C++ | Go | gRPC | SOON: kdb+, q** 
 * low latency simulative orderbook trading engine
 
 #### [UBC Course Insights](https://github.com/dracofs/UBC-Course-Insights)
