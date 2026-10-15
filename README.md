@@ -16,7 +16,7 @@
 * ubc course data query-er
 
 #### [StrayCare](https://github.com/dracofs/straycare)
-> **Javacript | React | Oracle | SQL | Database Design** 
+> **Javascript | React | Oracle | SQL | Database Design** 
 * db system for simulating a volunteer stray care animal community 
 
 #### [local notes]() - coming soon!
